@@ -1,0 +1,11 @@
+jupyter
+torch
+numpy
+tqdm
+huggingface_hub
+pandas
+matplotlib
+transformers
+accelerate
+sentence-transformers
+torchmetrics
